@@ -46,7 +46,7 @@
     "react-router": "^4.3.1",
     "react-router-dom": "^4.3.1",
     "universal-cookie": "^3.0.7",
-    "validator": "^10.11.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
